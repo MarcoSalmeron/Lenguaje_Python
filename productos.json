@@ -1,0 +1,10 @@
+[
+    {
+        "ID_producto": "1",
+        "Nombre": "Zelda",
+        "Categoria": "videojuegos",
+        "Precio": 999.99,
+        "Cantidad": 1,
+        "Estado": "semi nuevo"
+    }
+]

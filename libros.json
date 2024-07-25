@@ -1,0 +1,25 @@
+[
+    {
+        "ID_libro": "01",
+        "Titulo": "Principito",
+        "Autor": "JK",
+        "Categoria": "Fantasia",
+        "Disponible": true
+    }
+][
+    {
+        "ID_libro": "01",
+        "Titulo": "Principito",
+        "Autor": "JK",
+        "Categoria": "Fantasia",
+        "Disponible": false
+    }
+][
+    {
+        "ID_libro": "01",
+        "Titulo": "Principito",
+        "Autor": "JK",
+        "Categoria": "Fantasia",
+        "Disponible": true
+    }
+]

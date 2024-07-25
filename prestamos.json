@@ -1,0 +1,9 @@
+[
+    {
+        "ID_prestamo": "1",
+        "ID_libro": "01",
+        "ID_miembro": "01",
+        "Fecha_prestamo": "2024-07-23",
+        "Fecha_devolucion": "2024-07-30"
+    }
+][]

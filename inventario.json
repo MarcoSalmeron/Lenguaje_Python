@@ -1,0 +1,16 @@
+[
+    {
+        "ID": "01",
+        "Nombre": "manzana",
+        "Categoria": "frutas",
+        "Cantidad": 10,
+        "Precio": 10.99
+    },
+    {
+        "ID": "02",
+        "Nombre": "zelda",
+        "Categoria": "videojuegos",
+        "Cantidad": 3,
+        "Precio": 999.99
+    }
+]

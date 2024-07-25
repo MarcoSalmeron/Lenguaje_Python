@@ -1,0 +1,3 @@
+Ingreso Total: 237.5
+Ventas por Producto: 
+{'Manzana': {'Cantidad': 10, 'Ingresos': 155.0}, 'Doritos': {'Cantidad': 3, 'Ingresos': 56.699999999999996}, 'Chocolates': {'Cantidad': 2, 'Ingresos': 25.8}}{'Manzana': {'Cantidad': 10, 'Ingresos': 155.0}, 'Doritos': {'Cantidad': 3, 'Ingresos': 56.699999999999996}, 'Chocolates': {'Cantidad': 2, 'Ingresos': 25.8}}{'Manzana': {'Cantidad': 10, 'Ingresos': 155.0}, 'Doritos': {'Cantidad': 3, 'Ingresos': 56.699999999999996}, 'Chocolates': {'Cantidad': 2, 'Ingresos': 25.8}}

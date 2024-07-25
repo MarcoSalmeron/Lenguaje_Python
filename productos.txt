@@ -1,0 +1,5 @@
+Leche : 19.50
+Takis Fuego : 17.00
+Yugurt : 19.90
+Pan : 15.50
+cereal = 12.50
